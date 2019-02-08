@@ -8,7 +8,7 @@ Weller WX series soldering station bluetooth controller with Cypress Proc BLE
 
 Protocol Docs based on wwbc/pdf directory
 
-##To Do
+## To Do
 
 1. Basic Board Function Test //Done
 2. Write Code // Now Going
