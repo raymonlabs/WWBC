@@ -1,5 +1,10 @@
-Initaial Gerber File upload
+New Version Will Be Upload Soon
 
-Gerber in RS-274X Format
+Update History 
+=====================
 
-30 * 30 ( mm ) Size / Min trace 6mil / min hole size 0.3mm
+June 2018 : Initial Version Uploded 
+
+
+February 2019  : Update board dimension ( For Takachi CS90N Enclouser ) 
+// NOT YET UPDATED
