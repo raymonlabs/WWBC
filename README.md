@@ -4,7 +4,7 @@
 
 OpenSource BLE Controller For Weller WX Series
 
-Weller WX series soldering station bluetooth controller with Cypress Proc BLE
+Weller WX series soldering station bluetooth controller with nRF52
 
 Protocol Docs based on wwbc/pdf directory
 
